@@ -1,0 +1,160 @@
+yay -S sway waybar wofi rofi
+wofi
+wofi --whow
+yay -S sway swayidle swaybg swaylock
+yay -S nwggrid nwbar
+yay -S foot mako 
+git clone https://github.com/lemniskett/dotfiles
+git clone https://github.com/lemniskett/dotfiles ~/sway
+cd sway
+./install.sh foot mako nvim nwg-launchers sway waybar starship.toml\
+
+cd
+cd .config
+s
+ls
+firefox
+yay -S alacritty
+sway
+ls
+clear
+cd
+ls
+sudo pacman -S lsd
+ls
+ls
+clear
+ls
+touch .zsh_history
+cd
+ls
+clear
+v
+v dotfiles/INSTALL.md
+lsLLLLLLLL
+startx
+v .zsh_history
+ls
+sway
+picom
+ks
+ls
+clear
+sudo pacman -Syyu
+ls
+ls
+clear
+ls
+clear
+ls
+clear
+ls
+clear
+ks
+ls
+git clone https://git.suckless.org/dwm
+cd dwm
+ls
+sudo make clean install
+cd
+cd dwm
+v config.def.h
+rm config.h
+rm -rf .git
+sudo make clean install
+v config.def.h
+rm config.h
+sudo make clean install
+v .xinitrc
+bash <(curl -s https://raw.githubusercontent.com/ChristianChiarulli/lunarvim/master/utils/installer/install.sh)\
+
+yay -S python-pip
+bash <(curl -s https://raw.githubusercontent.com/ChristianChiarulli/lunarvim/master/utils/installer/install.sh)\
+
+rm -rf .config/nvim
+bash <(curl -s https://raw.githubusercontent.com/ChristianChiarulli/lunarvim/master/utils/installer/install.sh)\
+
+v
+cd dwm
+v config.def.h
+cd dwm
+rm config.h
+v config.def.h
+sudo make clean install
+cd dwm
+ls
+patch -p1 < dwm-gaps-6.0.diff
+v dwm.c
+rm config.h
+sudo make clean install
+v dwm.c
+sudo make clean install
+cd dwm
+v dwm-gaps-6.0.diff
+sudo make clean install
+v dwm-gaps-6.0.diff
+cd dwm
+sudo make clean install
+rm config.h
+v config.def.h
+sudo make clean install
+yay -S pavucontrol
+cd /opt
+ls
+sudo git clone https://gitlab.com/dwt1/dwm-distrotube.git
+cd dwm
+cd dwm-distrotube
+sudo make clean install
+cd dwm
+v dwm.c
+git clone https://gitlab.com/dwt1/st-distrotube
+cd st-distrotube
+sudo make clean install
+v .zsh
+v .zshrc
+ls
+clear
+ls
+yay -Rnc nerd-fonts-meslo
+yay -Rnc nerd-fonts-mononoki
+startx
+startx
+startx
+v .xinitrc
+startx
+startx
+cd .suckless
+ls
+cd dwm
+sudo make clean install
+ls
+clera
+clear
+cd dotfiles
+ls
+cd
+git clone https://github.com/ysfgrg/Temp-Repo
+cp .suckless/slstatus ~/Temp-Repo
+cd Temp-Repo
+ls
+git add slstatus/
+git commit -A
+git commit -a
+git config --global user.email "ysfgeorge07@example.com"
+git config --global user.name "ysfgrg"
+git commit -a
+v
+ks
+ls
+clear
+ls
+clear
+ls
+ls
+ls
+sudo pacman -S nautilus
+ls
+clear
+startx
+poweroff
+bash
